@@ -16,12 +16,3 @@ public class Main {
 		}
 	}
 }
-				
-			
-			
-		
-		
-
-	
-
-
